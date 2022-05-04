@@ -1,6 +1,6 @@
 # Web Scrapper with NodeJs
 
-Simple Web Scraper using the Spanish newspaper 'La Razon'.
+Simple Web Scraper using the Spanish newspaper 'La Razón'.
 
 ### Requirements 📋
 
